@@ -53,4 +53,4 @@ I learned how to efficiently organize my HTML and CSS in a way that will scale w
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/hazel79)
+- Frontend Mentor - [@hazel79](https://www.frontendmentor.io/profile/hazel79)
